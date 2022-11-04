@@ -34,4 +34,4 @@ There is no need to submit this prep work. This is meant get you better prepared
 
 ## Additional Prep
 
-You should have completed an [entry test](https://github.com/su-ntu-ctp/6m-software-entry-test) prior to joining this program. It is a good idea to revise on the referenced material to strength the basic understanding of JavaScript.
+You should have completed an [entry test](https://github.com/su-ntu-ctp/6m-software-entry-test) prior to joining this program. It is a good idea to revise on the referenced material to strengthen the basic understanding of JavaScript.
